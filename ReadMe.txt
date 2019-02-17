@@ -1,0 +1,1 @@
+Attached is our machine learning project we did for school.  The goal was to implement and evaluate the effectiveness of tomek links. 
